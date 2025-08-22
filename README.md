@@ -48,11 +48,11 @@ The model leverages **data augmentation**, **residual blocks**, and **modern tra
 
 ### Performance Visualizations
 - **Accuracy & Loss Curves**
-![Accuracy Plot](images/Accuracy Plot.jpg)
-![Loss Plot](images/loss.png)
+![Accuracy Plot](images/AccuracyPlot.jpg)
+![Loss Plot](images/LossPlot.png)
 
 - **Confusion Matrix**
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/ConfusionMatrix.png)
 
 - **Classification Report**
               precision    recall  f1-score   support
