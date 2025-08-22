@@ -79,5 +79,6 @@ weighted avg       0.73      0.70      0.70     10000
 git clone https://github.com/MuhammadMuaaz9/cifar10-ResNet34.git
 
 ### 2️⃣ Install Dependencies
+pip install -r requirements.txt
 
 👨‍💻 Author Muhammad Muaaz
