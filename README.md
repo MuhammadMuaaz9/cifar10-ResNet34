@@ -48,7 +48,7 @@ The model leverages **data augmentation**, **residual blocks**, and **modern tra
 
 ### Performance Visualizations
 - **Accuracy & Loss Curves**
-![Accuracy Plot](images/accuracy.png)
+![Accuracy Plot](images/Accuracy Plot.jpeg)
 ![Loss Plot](images/loss.png)
 
 - **Confusion Matrix**
